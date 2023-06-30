@@ -22,7 +22,7 @@ npm install
 npm run start
 ```
 
-### 4) Open your local browser and verify the sample-node-api is working by accessing:     
+### 4) Open your local browser and verify the historic-api is working by accessing:     
 `http://localhost:5000/api/histTramos?fechainicial=2014-01-01?fechafinal=2014-01-02`
 `http://localhost:5000/api/histClientes?fechainicial=2014-01-01?fechafinal=2014-01-02`
 `http://localhost:5000/api/peorClientes?fechainicial=2014-01-01?fechafinal=2014-01-02`
